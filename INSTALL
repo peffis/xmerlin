@@ -1,0 +1,28 @@
+Howto install Merlin
+--------------------
+
+After unpacking the file type:
+make
+make install
+
+
+Hopefully this will install merlin in /usr/X11R6/bin and the
+characters in /usr/local/share/merlin. If this does not suite you you
+need to edit the Makefile to fit your needs. 
+
+Merlin has been built this way on both i386-linux and on a Netwinder
+with a SA110 running arm-linux.
+
+Cross compiling
+---------------
+
+Cross compilation is no problem. You need to edit the
+Makefile. Edit INCFLAGS, LDFLAGS, CC and STRIP to fit your
+system. Merlin has succesfully been built this way on an i386 using
+arm-linux-gcc.
+
+
+Swedish keyboard map
+--------------------
+If you prefer a swedish keyboard map (I know I do). Then comment the
+USE_ENGLISH thing from the Makefile.

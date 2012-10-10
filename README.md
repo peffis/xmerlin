@@ -13,12 +13,18 @@ The characters can be edited by changing the files in the samples folder. Curren
 
 
 Single stroke characters
+
+
 ![screenshot](https://github.com/peffis/xmerlin/raw/master/doc/alpha.gif)
 
 
 Multi-stroke characters
+
+
 ![screenshot](https://github.com/peffis/xmerlin/raw/master/doc/extended.gif)
 
 
 Numbers and symbols
+
+
 ![screenshot](https://github.com/peffis/xmerlin/raw/master/doc/numerical.gif)

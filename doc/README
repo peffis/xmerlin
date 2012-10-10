@@ -24,6 +24,8 @@ hardware it was targeted for in the beginning and it worked ok
 there. On a fast computer with lots of memory and with a floating
 point unit one could of course implement something much better. 
 
+More background information can be found in my now very old thesis
+report which is included in the doc folder.
 
 Howto write
 ------------
@@ -91,8 +93,6 @@ directory merlin will look there for pattern samples instead of in the
 default directory.
 
 
-Questions, bug reports etc. goes to xmerlin@hellkvist.org. Since my
-time is limited I would prefer patches instead of bug reports though.
 
 If you like this program you could (if you want to) let me know by
 sending me a postcard. 

@@ -9,7 +9,7 @@ SCREEN SHOT
 
 CHARACTER SETS (how to write)
 -----------------------------
-The characters can be edited by changing the files in the samples folder. Currently they look like the following:
+The characters can be edited by changing the files in the samples folder. Currently they look like the following (where the dot indicates where to start):
 
 
 Single stroke characters
